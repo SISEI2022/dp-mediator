@@ -39,6 +39,5 @@ Simularemos un conjunto de módulos que procesen ventas por Internet, el proceso
 
 ### Ejecucion
 
-```
-gradle run
-```
+* Cargue las Extensiones Java de VS Code correcta y completamente.
+* En la clase principal de clic sobre el botón Play.
